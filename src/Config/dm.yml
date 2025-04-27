@@ -1,0 +1,5 @@
+id: Siarko.H2s.AssetsXmlLayout.default
+module: AssetsXmlLayout
+
+plugins:
+  \Siarko\LayoutParserXml\Parser\Node\Parser\AbstractLinkedTag: \Siarko\AssetsXmlLayout\Plugin\Parser\LinkedTagPlugin

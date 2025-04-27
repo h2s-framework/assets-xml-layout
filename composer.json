@@ -1,0 +1,19 @@
+{
+  "name": "h2sf/assets-xml-layout",
+  "description": "H2S Assets - XML Layout parser extension",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "library",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "H2S",
+      "email": "mateusz@siarko.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Siarko\\AssetsXmlLayout\\": "src/"
+    }
+  }
+}
