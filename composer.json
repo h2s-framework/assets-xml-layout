@@ -11,6 +11,7 @@
     }
   ],
   "require": {
+    "h2sf/assets": "^0.3",
     "h2sf/block-layout": "^0.3",
     "h2sf/file-parser-xml-block-layout": "^0.3"
   },
