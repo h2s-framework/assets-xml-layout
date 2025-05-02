@@ -4,13 +4,16 @@
   "minimum-stability": "stable",
   "license": "proprietary",
   "type": "library",
-  "version": "0.1",
   "authors": [
     {
       "name": "H2S",
       "email": "mateusz@siarko.pl"
     }
   ],
+  "require": {
+    "h2sf/block-layout": "^0.3",
+    "h2sf/file-parser-xml-block-layout": "^0.3"
+  },
   "autoload": {
     "psr-4": {
       "Siarko\\AssetsXmlLayout\\": "src/"
